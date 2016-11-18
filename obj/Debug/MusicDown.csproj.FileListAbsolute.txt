@@ -1,0 +1,11 @@
+D:\我的文档\c#\MusicDown\MusicDown\bin\Debug\MusicDown.exe.config
+D:\我的文档\c#\MusicDown\MusicDown\bin\Debug\MusicDown.exe
+D:\我的文档\c#\MusicDown\MusicDown\bin\Debug\MusicDown.pdb
+D:\我的文档\c#\MusicDown\MusicDown\obj\Debug\MusicDown.csprojResolveAssemblyReference.cache
+D:\我的文档\c#\MusicDown\MusicDown\obj\Debug\MusicDown.Form1.resources
+D:\我的文档\c#\MusicDown\MusicDown\obj\Debug\MusicDown.Properties.Resources.resources
+D:\我的文档\c#\MusicDown\MusicDown\obj\Debug\MusicDown.csproj.GenerateResource.Cache
+D:\我的文档\c#\MusicDown\MusicDown\obj\Debug\MusicDown.exe
+D:\我的文档\c#\MusicDown\MusicDown\obj\Debug\MusicDown.pdb
+D:\我的文档\c#\MusicDown\MusicDown\bin\Debug\Newtonsoft.Json.dll
+D:\我的文档\c#\MusicDown\MusicDown\bin\Debug\Newtonsoft.Json.xml
